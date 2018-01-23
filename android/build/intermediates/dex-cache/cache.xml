@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-186b8ba366a7634bba818f0a8676a2ee5c516d0e.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/opentour2017/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13d4144412510dac5f464813304d606834f69c76">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-5380b6f129ec8e77fc0adfd20e0c2ed093e333d2.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-e72bed341b2906051213601780dda99a57fcf750.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-f8889580acaf4b834a2225d3d313ff6dc4809b7e.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-bedb7a88933d655975142c49710da02f57c06a26.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-7fbd0d59f877f83399c0efbb3fc000232304f93c.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-8875d4d772f6e21458c051ddcddb98458e3ba5f5.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-3fffebe304de0695acd664093a2c84d4f7a6e43e.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-74d7b62512f6c4fa041938325fb8f28dd01cb7c2.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-9174a559f6151a1385c3002c600245790827e819.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-6879ace1468184a3152737426fe202f225b7eee2.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-7132c7c137815f805cfb578a4fa6dc3c3297a430.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-ba5090cfc07dfc80ba7f67d3754c5af956dc03f2.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-6aaf5311d2da4be45204107fc4964f54c49453c9.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-532a2f108c68dc58cd9b72ba7cfea28b7877820f.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-1e7c1801ac0c54215048c175761acfce67b6b0c4.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-31e6354138ac6f316facb935ddb01584b39f04b6.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-be9753359dcd637914872b4e37394b5c00777225.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-a7c60d3e2893b861a9fcf8d03196e215c86980f0.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-8b6ab9fed4f524a4153a7a20220d2db817402186.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-79a2138bff15116b7a68559b60a81f939c8d90f2.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-236433929079cb7d116dde264f7d23287c7b653b.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-dd9a9ee01e7fb28e5337532edfb3e1ae11f65154.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-78f743827dcbd39ec5217beca2a33846fa111000.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/classes-9b803ea3b4e1032962a7add36338284efd3dffb6.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-7516fb5d526bbd0b15274e1136e0aa4a4a8244e7.jar" />
+    </item>
+    <item
+        jar="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/diogoleitao/repos/opentour2017/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-06fcf7d135620dbc9e6c124bd905aa692caa41a6.jar" />
+    </item>
+
+</items>
